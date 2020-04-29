@@ -1,5 +1,5 @@
 import { getInitialData } from "../utils/api";
-import { receiveUsers } from "./user";
+import { receiveUsers } from "./users";
 import { receivedTweets } from "./tweets";
 import { setAuthedUser } from "./authedUser";
 
